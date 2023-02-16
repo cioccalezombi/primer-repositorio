@@ -1,0 +1,2 @@
+¡Hola main! realize un merge conflictivo con exito
+edicion realizada a la perfeccion
